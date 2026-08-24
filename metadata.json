@@ -1,0 +1,6 @@
+{
+  "name": "AIET College Event Management Portal",
+  "description": "Enterprise-grade College Event Management System for Alva's Institute of Engineering & Technology (AIET) featuring event discovery, registration with ticket generation, admin dashboard with analytics & CRUD, countdown timers, and full Eclipse Java Servlet & MySQL project architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
